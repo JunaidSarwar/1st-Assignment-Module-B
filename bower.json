@@ -1,0 +1,13 @@
+{
+  "name": "n",
+  "version": "1",
+  "homepage": "index.html",
+  "authors": [
+    "JunaidSarwar <junaidsarwar25@rocketmail.com>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3.15"
+  }
+}
